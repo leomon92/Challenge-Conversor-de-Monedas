@@ -1,5 +1,4 @@
 # Challenge Conversor de Monedas
-# Título e imagen de portada
  ***AluraChallengeConversorMonedas***
 ## Insignias
 ![GitHub language count](https://img.shields.io/github/languages/count/leomj07/AluraChallengeConversorMonedas)
